@@ -1,0 +1,83 @@
+Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 22:39:24) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/15195/Documents/2 QUANTUM/1  DWAVE LEAP/Oracle/OrApp2020 11 25 002nots.py
+
+
+  The QUANTUM ORACLE - A DECISION INDEPENDANCE SUPPORT PROOF 
+---------------------------------------------------------------------
+
+Decision in regards to :    President
+
+Decision Requested     2020-11-25
+Time: 04:47:23
+
+TimeStamp 1606297643.882834
+ 
+Alternative One   Trump
+
+Alternative Two   Biden
+
+  
+  
+AS to the Decision in regards to  President
+  
+WHERE AS Alternative One was   Trump
+AND Alternative Two was        Biden
+  
+  
+The DECISION is    
+******************************************
+Biden
+******************************************
+TIMESTAMPED   1606297643.882834
+
+Cryptografic Certification of Proof :
+    5fdff7892e95a02c94855454a4dc2ad3bc7d7592b21083af151018bec6d52fe9
+ 
+------------------------------------------------------------------------- 
+>>> 
+= RESTART: C:/Users/15195/Documents/2 QUANTUM/1  DWAVE LEAP/Oracle/VerOrc 2020 11 25 001nots.py
+
+
+----------------------------------------------------------VERIFYER --
+  The QUANTUM ORACLE - A DECISION INDEPENDANCE SUPPORT PROOF 
+---------------------------------------------------------------------
+
+VERYFICATION  Requested    
+
+Decision in regards to :    President
+
+ ENTER THE 4 Componants of the Certification as on the Certificate 
+
+1   Timestamp with all decimal places   1606297643.882834
+ 
+2   Alternative One   Trump
+
+3   Alternative Two   Biden
+
+4   Decision as returned by Quantum computer   Biden
+
+
+
+ ---for VERIFICATION,  you have entered  
+  
+AS to the Decision in regards to  President
+  
+Timestamp of the decision request as enterd  1606297643.882834
+  
+WHERE AS Alternative One was   Trump
+
+AND Alternative Two was        Biden
+  
+  
+And the QUANTUM COMPUTER'S TRULY RANDOM INDEPENDANT DECISION was :   Biden
+ 
+------------------------------------------------------------------------- 
+
+Cryptographic VERIFICATION should match Certification of Proof hash :
+
+    5fdff7892e95a02c94855454a4dc2ad3bc7d7592b21083af151018bec6d52fe9
+ 
+------------------------------------------------------------------------- 
+>>> 
