@@ -6,6 +6,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
   The QUANTUM ORACLE - A DECISION INDEPENDANCE SUPPORT PROOF 
 ---------------------------------------------------------------------
+*********************************        THIS EXAMPLE RAW PYTHON TO TEST VERIFIER, NO QUANTUM
 
 Decision in regards to :    President
 
